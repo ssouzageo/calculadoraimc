@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
             val alturaQ2 = altura * altura
             val resultado = peso / alturaQ2
 
+            // Resultado imc.
             println("ação do botão geo" + resultado)
 
         }
